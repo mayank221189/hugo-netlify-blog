@@ -5,12 +5,12 @@ tags: ["poetry", "time"]
 draft: false
 ---
 
-That it will never come again
-Is what makes life so sweet.
-Believing what we don’t believe
-Does not exhilarate.
+Qu'il ne reviendra plus jamais
+C'est ce qui rend la vie si douce.
+Croire à ce que nous ne croyons pas
+N'exalte pas.
 
-That if it be, it be at best
-An ablative estate --
-This instigates an appetite
-Precisely opposite.
+Que si c'est le cas, ce sera au mieux
+Un domaine ablatif -
+Cela suscite un appétit
+Précisément en face.

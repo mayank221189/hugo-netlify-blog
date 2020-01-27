@@ -1,11 +1,12 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 collections:
   - name: 'blog'
-    label: 'Blog'
+    label: 'Blog in English'
     folder: 'content/en/blog'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -16,3 +17,15 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'blog'
+    label: 'Blog in French'
+    folder: 'content/fr/blog'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Date de publication', name: 'date', widget: 'datetime' }
+      - { label: 'Mots clés', name: 'tags', widget: 'list' }
+      - { label: 'Corps', name: 'body', widget: 'markdown' }

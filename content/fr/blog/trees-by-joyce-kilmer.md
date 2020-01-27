@@ -5,20 +5,20 @@ tags: ["poetry", "trees"]
 draft: false
 ---
 
-I think that I shall never see
-A poem lovely as a tree.
+Je pense que je ne verrai jamais
+Un poème adorable comme un arbre.
 
-A tree whose hungry mouth is prest
-Against the earth’s sweet flowing breast;
+Un arbre dont la bouche affamée est persistante
+Contre la douce poitrine fluide de la terre;
 
-A tree that looks at God all day,
-And lifts her leafy arms to pray;
+Un arbre qui regarde Dieu toute la journée,
+Et lève ses bras feuillus pour prier;
 
-A tree that may in Summer wear
-A nest of robins in her hair;
+Un arbre qui peut en été porter
+Un nid de merles dans ses cheveux;
 
-Upon whose bosom snow has lain;
-Who intimately lives with rain.
+Sur le sein duquel la neige est tombée;
+Qui vit intimement avec la pluie.
 
-Poems are made by fools like me,
-But only God can make a tree.
+Les poèmes sont faits par des imbéciles comme moi,
+Mais seul Dieu peut faire un arbre.
