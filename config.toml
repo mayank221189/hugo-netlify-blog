@@ -1,0 +1,58 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hugo Blog"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.fr]
+    title = "Mon démonstrateur d'internationalisation à Hugo"
+    contentDir = "content/fr"
+    languageName = "Français"
+	  weight = 2
+    [[menu.main]]
+      name = "Home"
+      pre = "home"
+      url = "/fr/"
+      weight = 1
+    [[menu.main]]
+      name = "Tags"
+      pre = "tag"
+      url = "/fr/tags/"
+      weight = 3
+    [[menu.main]]
+      name = "Blog"
+      pre = "edit"
+      url = "/fr/blog/"
+  [languages.en]
+    title = "My internationalization demonstrator in Hugo"
+    contentDir = "content/en"
+    languageName = "English"
+	  weight = 1
+    [[menu.main]]
+      name = "Home"
+      pre = "home"
+      url = "/en/"
+      weight = 1
+    [[menu.main]]
+      name = "Tags"
+      pre = "tag"
+      url = "/en/tags/"
+      weight = 3
+    [[menu.main]]
+      name = "Blog"
+      pre = "edit"
+      url = "/en/blog/"
+
+
+[params]
+  dateFormat = "Jan 2, 2006"
+  homeText = "Blog in Hugo"
+
+[permlinks]
+  blog = "/:filename/"
+
+[taxonomies]
+  tag = "tags"
+
+# See https://feathericons.com/
+# The value of pre is the icon name
