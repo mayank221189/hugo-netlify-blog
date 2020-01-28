@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Blog"
+defaultContentLanguageInSubdir = true
 
 [languages]
   [languages.fr]
