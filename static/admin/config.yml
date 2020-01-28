@@ -3,6 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
+  repo: mayank221189/hugo-netlify-blog
   branch: development # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
 media_folder: static/images
