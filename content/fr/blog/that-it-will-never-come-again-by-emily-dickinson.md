@@ -1,8 +1,10 @@
 ---
-title: "That It Will Never Come Again by Emily Dickinson"
-date: 2020-01-24T14:04:39-05:00
-tags: ["poetry", "time"]
-draft: false
+name: That It Will Never Come Again by Emily Dickinson
+title: ' Qu''il ne reviendra jamais par Emily Dickinson'
+date: 2020-01-24T19:04:39.000Z
+tags:
+  - poetry
+  - time
 ---
 
 Qu'il ne reviendra plus jamais
