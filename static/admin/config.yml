@@ -1,16 +1,23 @@
 backend:
   name: git-gateway
-  repo: mayank221189/hugo-netlify-cms # Path to your GitHub repository
+  accept_roles:
+    - admin
+    - editor
+  repo: mayank221189/hugo-netlify-blog
   branch: development # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
-media_folder: static/img
-public_folder: /img
+media_folder: static/images
+public_folder: /images
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
 collections:
   - name: 'Blog in English'
     label: 'Blog in English'
     folder: 'content/en/blog'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     editor:
       preview: true
     fields:
@@ -22,7 +29,7 @@ collections:
     name: 'Blog en français'
     folder: 'content/fr/blog'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     editor:
       preview: true
     fields:
