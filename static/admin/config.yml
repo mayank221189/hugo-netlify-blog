@@ -39,6 +39,6 @@ collections:
       - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Date de publication', name: 'date', widget: 'datetime' }
       - { label: 'Mots clés', name: 'tags', widget: 'list' }
-      - { label: 'L\'image sélectionnée', name: 'thumbnail', widget: 'image', required: false}
+      - { label: 'L''image sélectionnée', name: 'thumbnail', widget: 'image', required: false}
       - { label: 'Évaluation (échelle de 1 à 5)', name: 'rating', widget: 'number', required: false}
       - { label: 'Corps', name: 'body', widget: 'markdown' }
