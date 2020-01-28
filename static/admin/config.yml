@@ -13,7 +13,7 @@ slug:
   clean_accents: true
   sanitize_replacement: "-"
 collections:
-  - name: 'Blog in English'
+  - name: 'blog-in-english'
     label: 'Blog in English'
     folder: 'content/en/blog'
     create: true
@@ -25,8 +25,8 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - label: 'Blog en français'
-    name: 'Blog en français'
+  - name: 'blog-en-français'
+    label: 'Blog en français'
     folder: 'content/fr/blog'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
