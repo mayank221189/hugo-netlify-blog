@@ -3,8 +3,8 @@ backend:
   repo: mayank221189/hugo-netlify-cms # Path to your GitHub repository
   branch: development # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
-media_folder: static/img
-public_folder: /img
+media_folder: static/images
+public_folder: /images
 collections:
   - name: 'Blog in English'
     label: 'Blog in English'
