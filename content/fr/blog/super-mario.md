@@ -1,8 +1,11 @@
 ---
-title: "Super Mario"
-date: 2020-01-24T13:40:22-05:00
-tags: ["game","kids","adult"]
-draft: false
+name: Super Mario
+title: Super Mario
+date: 2020-01-24T18:40:22.000Z
+tags:
+  - game
+  - kids
+  - adult
 ---
 
 Super Mario [a] est une série de jeux vidéo japonais et une franchise multimédia créée par Nintendo et mettant en vedette leur mascotte, Mario. Alternativement appelée la série Super Mario Bros. [b] ou simplement la série Mario [c], c'est la série centrale de la grande franchise Mario. Au moins un jeu Super Mario a été publié pour chaque console de jeu vidéo Nintendo majeure. Cependant, un certain nombre de jeux vidéo Super Mario sont également sortis sur des plates-formes de jeux non Nintendo. [1]
