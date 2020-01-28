@@ -1,7 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Blog"
-defaultContentLanguageInSubdir = true
 
 [languages]
   [languages.fr]
@@ -31,17 +30,17 @@ defaultContentLanguageInSubdir = true
     [[menu.main]]
       name = "Home"
       pre = "home"
-      url = "/en/"
+      url = "/"
       weight = 1
     [[menu.main]]
       name = "Tags"
       pre = "tag"
-      url = "/en/tags/"
+      url = "/tags/"
       weight = 3
     [[menu.main]]
       name = "Blog"
       pre = "edit"
-      url = "/en/blog/"
+      url = "/blog/"
 
 
 [params]
