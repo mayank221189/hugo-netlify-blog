@@ -24,23 +24,23 @@ title = "Hugo Blog"
       url = "/fr/blog/"
   [languages.en]
     title = "My internationalization demonstrator in Hugo"
-    contentDir = "content"
+    contentDir = "content/en"
     languageName = "English"
 	  weight = 1
     [[menu.main]]
       name = "Home"
       pre = "home"
-      url = "/"
+      url = "/en/"
       weight = 1
     [[menu.main]]
       name = "Tags"
       pre = "tag"
-      url = "/tags/"
+      url = "/en/tags/"
       weight = 3
     [[menu.main]]
       name = "Blog"
       pre = "edit"
-      url = "/blog/"
+      url = "/en/blog/"
 
 
 [params]
