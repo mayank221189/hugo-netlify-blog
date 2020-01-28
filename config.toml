@@ -24,7 +24,7 @@ title = "Hugo Blog"
       url = "/fr/blog/"
   [languages.en]
     title = "My internationalization demonstrator in Hugo"
-    contentDir = "content/en"
+    contentDir = "content"
     languageName = "English"
 	  weight = 1
     [[menu.main]]
