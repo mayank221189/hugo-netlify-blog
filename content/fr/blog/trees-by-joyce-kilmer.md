@@ -1,8 +1,10 @@
 ---
-title: "Trees by Joyce Kilmer"
-date: 2020-01-24T14:05:05-05:00
-tags: ["poetry", "trees"]
-draft: false
+name: Trees by Joyce Kilmer
+title: ' Arbres par Joyce Kilmer'
+date: 2020-01-24T19:05:05.000Z
+tags:
+  - poetry
+  - trees
 ---
 
 Je pense que je ne verrai jamais
