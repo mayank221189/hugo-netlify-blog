@@ -1,8 +1,11 @@
 ---
-title: "Super Mario"
-date: 2020-01-24T13:40:22-05:00
-tags: ["game","kids","adult"]
-draft: false
+name: Super Mario
+title: Super Mario
+date: 2020-01-24T18:40:22.000Z
+tags:
+  - game
+  - kids
+  - adult
 ---
 
 Super Mario[a] is a Japanese video game series and media franchise created by Nintendo and featuring their mascot, Mario. Alternatively called the Super Mario Bros.[b] series or simply the Mario[c] series, it is the central series of the greater Mario franchise. At least one Super Mario game has been released for every major Nintendo video game console. However there have also been a number of Super Mario video games released on non-Nintendo gaming platforms.[1]
