@@ -1,8 +1,10 @@
 ---
-title: "If by Rudyard Kipling"
-date: 2020-01-24T13:50:15-05:00
-tags: ["poetry", "life"]
-draft: false
+name: If by Rudyard Kipling
+title: If by Rudyard Kipling
+date: 2020-01-24T18:50:15.000Z
+tags:
+  - poetry
+  - life
 ---
 
 If you can keep your head when all about you
