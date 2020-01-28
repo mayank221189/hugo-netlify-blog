@@ -10,12 +10,12 @@ defaultContentLanguageInSubdir = true
     languageName = "Français"
 	  weight = 2
     [[menu.main]]
-      name = "Home"
+      name = "Accueil"
       pre = "home"
       url = "/fr/"
       weight = 1
     [[menu.main]]
-      name = "Tags"
+      name = "Mots clés"
       pre = "tag"
       url = "/fr/tags/"
       weight = 3
@@ -23,6 +23,7 @@ defaultContentLanguageInSubdir = true
       name = "Blog"
       pre = "edit"
       url = "/fr/blog/"
+      weight = 2
   [languages.en]
     title = "My internationalization demonstrator in Hugo"
     contentDir = "content/en"
@@ -42,6 +43,7 @@ defaultContentLanguageInSubdir = true
       name = "Blog"
       pre = "edit"
       url = "/en/blog/"
+      weight = 2
 
 
 [params]
