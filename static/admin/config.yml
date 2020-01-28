@@ -4,14 +4,14 @@ backend:
     - admin
     - editor
   repo: mayank221189/hugo-netlify-blog
-  branch: development # Branch to update (optional; defaults to master)
+  branch: hugo-1 # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
 media_folder: static/images
 public_folder: /images
 slug:
   encoding: "ascii"
   clean_accents: true
-  sanitize_replacement: "_"
+  sanitize_replacement: "-"
 collections:
   - name: 'Blog in English'
     label: 'Blog in English'
