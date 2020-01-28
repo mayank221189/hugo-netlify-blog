@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
-  repo: mayank221189/hugo-netlify-cms # Path to your GitHub repository
+  accept_roles:
+    - admin
+    - editor
   branch: development # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
 media_folder: static/images
