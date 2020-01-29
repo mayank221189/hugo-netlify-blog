@@ -1,5 +1,4 @@
 baseURL = "https://musing-lamarr-54ca69.netlify.com"
-languageCode = "en-us"
 title = "Hugo Blog"
 defaultContentLanguageInSubdir = true
 
@@ -8,6 +7,7 @@ defaultContentLanguageInSubdir = true
     title = "Mon démonstrateur d'internationalisation à Hugo"
     contentDir = "content/fr"
     languageName = "Français"
+    languageCode = "fr"
 	  weight = 2
     [languages.fr.menu]
       [[languages.fr.menu.main]]
@@ -29,6 +29,7 @@ defaultContentLanguageInSubdir = true
     title = "My internationalization demonstrator in Hugo"
     contentDir = "content/en"
     languageName = "English"
+    languageCode = "en"
 	  weight = 1
     [languages.en.menu]
       [[languages.en.menu.main]]
