@@ -9,41 +9,43 @@ defaultContentLanguageInSubdir = true
     contentDir = "content/fr"
     languageName = "Français"
 	  weight = 2
-    [[menu.main]]
-      name = "Accueil"
-      pre = "home"
-      url = "/fr/"
-      weight = 1
-    [[menu.main]]
-      name = "Mots clés"
-      pre = "tag"
-      url = "/fr/tags/"
-      weight = 3
-    [[menu.main]]
-      name = "Blog"
-      pre = "edit"
-      url = "/fr/blog/"
-      weight = 2
+    [languages.fr.menu]
+      [[languages.fr.menu.main]]
+        name = "Accueil"
+        pre = "home"
+        url = "/fr/"
+        weight = 1
+      [[languages.fr.menu.main]]
+        name = "Mots clés"
+        pre = "tag"
+        url = "/fr/tags/"
+        weight = 3
+      [[languages.fr.menu.main]]
+        name = "Blog"
+        pre = "edit"
+        url = "/fr/blog/"
+        weight = 2
   [languages.en]
     title = "My internationalization demonstrator in Hugo"
     contentDir = "content/en"
     languageName = "English"
 	  weight = 1
-    [[menu.main]]
-      name = "Home"
-      pre = "home"
-      url = "/en/"
-      weight = 1
-    [[menu.main]]
-      name = "Tags"
-      pre = "tag"
-      url = "/en/tags/"
-      weight = 3
-    [[menu.main]]
-      name = "Blog"
-      pre = "edit"
-      url = "/en/blog/"
-      weight = 2
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "Home"
+        pre = "home"
+        url = "/en/"
+        weight = 1
+      [[languages.en.menu.main]]
+        name = "Tags"
+        pre = "tag"
+        url = "/en/tags/"
+        weight = 3
+      [[languages.en.menu.main]]
+        name = "Blog"
+        pre = "edit"
+        url = "/en/blog/"
+        weight = 2
 
 
 [params]
