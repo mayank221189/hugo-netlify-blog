@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My internationalization demonstrator in Hugo</title>
+    <link>https://musing-lamarr-54ca69.netlify.com/en/</link>
+    <description>Recent content on My internationalization demonstrator in Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Jan 2020 19:05:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://musing-lamarr-54ca69.netlify.com/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trees by Joyce Kilmer</title>
+      <link>https://musing-lamarr-54ca69.netlify.com/en/blog/trees-by-joyce-kilmer/</link>
+      <pubDate>Fri, 24 Jan 2020 19:05:05 +0000</pubDate>
+      
+      <guid>https://musing-lamarr-54ca69.netlify.com/en/blog/trees-by-joyce-kilmer/</guid>
+      <description>I think that I shall never see A poem lovely as a tree.
+A tree whose hungry mouth is prest Against the earth’s sweet flowing breast;
+A tree that looks at God all day, And lifts her leafy arms to pray;
+A tree that may in Summer wear A nest of robins in her hair;
+Upon whose bosom snow has lain; Who intimately lives with rain.
+Poems are made by fools like me, But only God can make a tree.</description>
+    </item>
+    
+    <item>
+      <title>That It Will Never Come Again by Emily Dickinson</title>
+      <link>https://musing-lamarr-54ca69.netlify.com/en/blog/that-it-will-never-come-again-by-emily-dickinson/</link>
+      <pubDate>Fri, 24 Jan 2020 19:04:39 +0000</pubDate>
+      
+      <guid>https://musing-lamarr-54ca69.netlify.com/en/blog/that-it-will-never-come-again-by-emily-dickinson/</guid>
+      <description>That it will never come again Is what makes life so sweet. Believing what we don’t believe Does not exhilarate.
+That if it be, it be at best An ablative estate &amp;ndash; This instigates an appetite Precisely opposite.</description>
+    </item>
+    
+    <item>
+      <title>If by Rudyard Kipling</title>
+      <link>https://musing-lamarr-54ca69.netlify.com/en/blog/if-by-rudyard-kipling/</link>
+      <pubDate>Fri, 24 Jan 2020 18:50:15 +0000</pubDate>
+      
+      <guid>https://musing-lamarr-54ca69.netlify.com/en/blog/if-by-rudyard-kipling/</guid>
+      <description>If you can keep your head when all about you Are losing theirs and blaming it on you, If you can trust yourself when all men doubt you, But make allowance for their doubting too; If you can wait and not be tired by waiting, Or being lied about, don’t deal in lies, Or being hated, don’t give way to hating, And yet don’t look too good, nor talk too wise:</description>
+    </item>
+    
+    <item>
+      <title>Super Mario</title>
+      <link>https://musing-lamarr-54ca69.netlify.com/en/blog/super-mario/</link>
+      <pubDate>Fri, 24 Jan 2020 18:40:22 +0000</pubDate>
+      
+      <guid>https://musing-lamarr-54ca69.netlify.com/en/blog/super-mario/</guid>
+      <description>Super Mario[a] is a Japanese video game series and media franchise created by Nintendo and featuring their mascot, Mario. Alternatively called the Super Mario Bros.[b] series or simply the Mario[c] series, it is the central series of the greater Mario franchise. At least one Super Mario game has been released for every major Nintendo video game console. However there have also been a number of Super Mario video games released on non-Nintendo gaming platforms.</description>
+    </item>
+    
+  </channel>
+</rss>

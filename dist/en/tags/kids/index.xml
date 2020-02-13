@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kids on My internationalization demonstrator in Hugo</title>
+    <link>https://musing-lamarr-54ca69.netlify.com/en/tags/kids/</link>
+    <description>Recent content in kids on My internationalization demonstrator in Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Jan 2020 18:40:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://musing-lamarr-54ca69.netlify.com/en/tags/kids/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Super Mario</title>
+      <link>https://musing-lamarr-54ca69.netlify.com/en/blog/super-mario/</link>
+      <pubDate>Fri, 24 Jan 2020 18:40:22 +0000</pubDate>
+      
+      <guid>https://musing-lamarr-54ca69.netlify.com/en/blog/super-mario/</guid>
+      <description>Super Mario[a] is a Japanese video game series and media franchise created by Nintendo and featuring their mascot, Mario. Alternatively called the Super Mario Bros.[b] series or simply the Mario[c] series, it is the central series of the greater Mario franchise. At least one Super Mario game has been released for every major Nintendo video game console. However there have also been a number of Super Mario video games released on non-Nintendo gaming platforms.</description>
+    </item>
+    
+  </channel>
+</rss>
